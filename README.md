@@ -1,8 +1,6 @@
 # Portfolio Features
-⚡️ Modern UI Design + Reveal Animations<br>
+⚡️ Modern UI Design <br>
 ⚡️ One Page Layout<br>
-⚡️ Styled with Bootstrap v4.3 + Custom SCSS<br>
+⚡️ Styled with CSS<br>
 ⚡️ Fully Responsive<br>
 ⚡️ Valid HTML5 & CSS3<br>
-⚡️ Optimized with Parcel<br>
-⚡️ Well organized documentation<br>
